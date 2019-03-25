@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuoquugap.morphgnt.org/sitemap.xml
